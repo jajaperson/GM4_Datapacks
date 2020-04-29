@@ -1,0 +1,27 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": "A Gamemode 4 Module"
+    },
+    "module_name": "Trowels",
+    "module_id": "trowels",
+    "creation_meta":"Created using the Gamemode 4 Module Template Generator (gm4.co/modules/generator)",
+    "site_description": "Right click on a block with the trowel to replace it with a randomly selected block from your hotbar.",
+    "site_categories": [],
+    "video_link": "YOUTUBE_VIDEO_URL",
+    "wiki_link": "WIKI_URL",
+    "required_modules": [
+        "custom_crafters"
+    ],
+    "recommended_modules": [],
+    "credits": {
+        "comment": "All credit arrays are optional and more can be created as needed. They will be displayed on the site page under their headings. -- REMOVE THIS COMMENT",
+        "Creator": [
+            [
+                "jajaperson",
+                "keybase.io/jajaperson"
+            ]
+        ],
+        "Updated By": []
+    }
+}
