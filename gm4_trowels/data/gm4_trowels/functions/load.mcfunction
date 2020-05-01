@@ -4,3 +4,4 @@ execute unless score gm4_custom_crafters load matches 1 run data modify storage 
 
 execute if score gm4_trowels load matches 1 run function gm4_trowels:init
 execute unless score gm4_trowels load matches 1 run schedule clear gm4_trowels:main
+execute unless score gm4_trowels load matches 1 run schedule clear gm4_trowels:tick
