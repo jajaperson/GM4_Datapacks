@@ -6,7 +6,7 @@
     "module_name": "Trowels",
     "module_id": "trowels",
     "creation_meta":"Created using the Gamemode 4 Module Template Generator (gm4.co/modules/generator)",
-    "site_description": "Right click on a block with the trowel to replace it with a randomly selected block from your hotbar.",
+    "site_description": "Right click with a trowel to place a randomly selected block from your hotbar",
     "site_categories": [],
     "video_link": "YOUTUBE_VIDEO_URL",
     "wiki_link": "WIKI_URL",
